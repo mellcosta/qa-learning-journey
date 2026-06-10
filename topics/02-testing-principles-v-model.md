@@ -1,4 +1,4 @@
-# ☕ Breaking into QA — Day 2
+# ☕Day 2 - The 7 Principles & The V-Model 
 
 ## 📚 Topics Covered
 
