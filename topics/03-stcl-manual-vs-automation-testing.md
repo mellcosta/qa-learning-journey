@@ -22,7 +22,7 @@ The Software Testing Life Cycle (STLC) is a structured process followed by QA te
 
 ### STLC Phases
 
-![alt text](image-3.png)
+![alt text](../assets/images/image-3.png)
 
 #### 1. Requirement Analysis
 
@@ -110,7 +110,7 @@ The Requirement Traceability Matrix (RTM) is a document that maps requirements t
 
 ### Simple Example
 
-![alt text](image-4.png)
+![alt text](../assets/images/image-4.png)
 
 ### Benefits
 

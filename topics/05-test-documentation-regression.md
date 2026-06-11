@@ -68,7 +68,7 @@ A strong test case must be **clear, reusable, and executable by any tester witho
 
 Non-functional testing evaluates **how the system behaves**, not what it does.
 
-![alt text](image-12.png)
+![alt text](../assets/images/image-12.png)
 
 ### Key Areas
 
@@ -84,7 +84,7 @@ Non-functional testing evaluates **how the system behaves**, not what it does.
 
 Regression testing ensures that **new changes do not break existing functionality**.
 
-![alt text](image-11.png)
+![alt text](../assets/images/image-11.png)
 
 ### When it is performed
 

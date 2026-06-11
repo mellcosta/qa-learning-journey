@@ -34,7 +34,7 @@ If one value in a group works (or fails), others in the same group behave simila
 * Invalid: ≤ 0
 * Valid: 1–10
 * Invalid: ≥ 11
-![alt text](image-16.png)
+![alt text](../assets/images/image-16.png)
 
 ### Key Benefit
 
@@ -64,7 +64,7 @@ BVA focuses on testing **edge values**, where defects are most likely to occur.
 | Upper Boundary |   10  | Accept          | BVA       |
 | Above Boundary |   11  | Reject          | BVA       |
 
-![alt text](image-17.png)
+![alt text](../assets/images/image-17.png)
 
 ---
 
@@ -84,7 +84,7 @@ Formula:
 
 ### Example: Login System
 
-![alt text](image-18.png)
+![alt text](../assets/images/image-18.png)
 
 The condition is simple: if the user provides the correct username and password, they are redirected to the homepage. If any input is wrong, an error message is displayed.
 
@@ -109,7 +109,7 @@ State Transition Testing validates how a system behaves as it moves between **di
 
 ### Example: ATM PIN Lock System
 
-![alt text](image-15.png)
+![alt text](../assets/images/image-15.png)
 
 | State       | Correct PIN    | Incorrect PIN   |
 | :---------- | :------------- | :-------------- |
@@ -144,9 +144,20 @@ Use Case Testing validates **end-to-end user interactions** with the system.
 
 ---
 
-## 6. 💡 Error Guessing 😢
+## 4. 🔄 State Transition Testing 
 
-Error Guessing is an **experience-based technique** where testers anticipate likely defects without formal structure.
+State Transition Testing validates how a system behaves as it moves between **different states over time**.
+
+### Core Elements
+
+* States
+* Events
+* Transitions
+* Actions
+
+### Example: ATM PIN Lock System
+
+![alt text](../assets/images/image-15.png)
 
 ### Typical Targets
 

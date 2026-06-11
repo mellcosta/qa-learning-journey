@@ -153,7 +153,7 @@ Software Testing is considered part of QC.
 
 ## 🗺️ Roadmap: How to Become a Software Tester
 
-![alt text](image.png)
+![alt text](../assets/images/image.png)
 
 ```text
 Software Testing Fundamentals

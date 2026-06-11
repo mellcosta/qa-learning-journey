@@ -13,7 +13,7 @@ Today I studied two fundamental concepts in Software Testing:
 
 The 7 Principles, promoted by ISTQB, serve as essential guidelines for every QA professional.
 
-![alt text](image-2.png)
+![alt text](../assets/images/image-2.png)
 
 ---
 
@@ -121,7 +121,7 @@ A bug-free application is useless if it doesn't solve the user's problem.
 
 The V-Model is a Software Development Life Cycle (SDLC) model where every development activity has a corresponding testing activity.
 
-![alt text](image-1.png)
+![alt text](../assets/images/image-1.png)
 
 It focuses on:
 

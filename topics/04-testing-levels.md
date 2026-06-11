@@ -60,7 +60,7 @@ Evaluates the complete integrated application.
 
 Final validation performed by users or stakeholders to ensure business requirements are met.
 
-![Levels of testing](image-5.png)
+![Levels of testing](../assets/images/image-5.png)
 
 Suggested:
 Testing Pyramid or Testing Hierarchy Diagram
@@ -81,7 +81,7 @@ Unit Testing focuses on verifying the smallest testable parts of an application.
 
 The goal is to ensure each component behaves correctly before integration occurs.
 
-![unit tetsing](image-6.png)
+![unit tetsing](../assets/images/image-6.png)
 
 ### The AAA Pattern
 
@@ -99,7 +99,7 @@ Execute the functionality being tested.
 
 Verify that the result matches expectations.
 
-![aaa](image-7.png)
+![aaa](../assets/images/image-7.png)
 
 ### Test Isolation Tools
 
@@ -184,7 +184,7 @@ Uses Drivers for higher modules that are not yet available.
 
 Combines both Top-Down and Bottom-Up approaches.
 
-![alt text](image-8.png)
+![alt text](../assets/images/image-8.png)
 
 ### Integration Test Doubles
 
@@ -200,7 +200,7 @@ Combines both Top-Down and Bottom-Up approaches.
 
 These testing techniques act as quality filters before extensive testing begins.
 
-![smokevssanity](image-9.png)
+![smokevssanity](../assets/images/image-9.png)
 
 ### Smoke Testing
 
@@ -273,7 +273,7 @@ Both outcomes must be tested:
 * Improves test quality
 * Reduces hidden defects
 
-![alt text](image-10.png)
+![alt text](../assets/images/image-10.png)
 
 ---
 
