@@ -1,0 +1,49 @@
+# GitHub Pages & Jekyll Configuration
+# Breaking Into QA: 30-Day Learning Challenge
+
+# Site Configuration
+title: Breaking Into QA
+description: A 30-day Software Testing & Quality Assurance learning journey
+author: Melissa Costa
+url: https://melissa-costa.github.io/QA
+baseurl: /QA
+
+# Jekyll Configuration
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Markdown Configuration
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Collections and Defaults
+collections:
+  topics:
+    output: true
+    permalink: /:collection/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: topics
+    values:
+      layout: default
+
+# Exclude directories from Jekyll processing
+exclude:
+  - .gitignore
+  - .git
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
