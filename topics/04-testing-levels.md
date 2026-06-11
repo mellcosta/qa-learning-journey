@@ -1,3 +1,7 @@
+[← Back to Home](../index.md)
+
+---
+
 # Day 4 - Testing Levels, Smoke & Sanity Testing 🚀
 
 ## Overview
@@ -328,10 +332,10 @@ This was the first day where I started seeing testing not only as validation, bu
 
 ## Challenge Progress
 
-**Series:** Breaking Into QA ✨
-
 **Challenge:** 30-Day QA Learning Challenge
 
-**Day Completed:** Day 4/30 ✅
+**Day Completed:** Day 4 ✅
 
 ---
+
+[← Previous: Day 3](./03-stcl-manual-vs-automation-testing.md) | [← Back to Home](../index.md) | [Next: Day 5 →](./05-test-documentation-regression.md)

@@ -1,3 +1,7 @@
+[← Back to Home](../index.md)
+
+---
+
 # Day 7 - Black-Box Testing Techniques & Strategic Test Design 🚀
 
 ## Overview
@@ -207,10 +211,10 @@ It highlights how professional testers think in terms of **coverage optimization
 
 ## Challenge Progress
 
-**Series:** Breaking Into QA ✨
-
 **Challenge:** 30-Day QA Learning Challenge
 
-**Day Completed:** Day 7/30 ✅
+**Day Completed:** Day 7 ✅
 
 ---
+
+[← Previous: Day 6](./06-test-analysis-rtm-test-data.md) | [← Back to Home](../index.md)

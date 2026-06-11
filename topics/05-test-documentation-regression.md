@@ -1,3 +1,7 @@
+[← Back to Home](../index.md)
+
+---
+
 # Day 5 - Test Documentation, Techniques & Quality Reporting 🚀
 
 ## Overview
@@ -162,10 +166,10 @@ Understanding documentation, test design, and reporting shows how QA acts as a *
 
 ## Challenge Progress
 
-**Series:** Breaking Into QA ✨
-
 **Challenge:** 30-Day QA Learning Challenge
 
-**Day Completed:** Day 5/30 ✅
+**Day Completed:** Day 5 ✅
 
 ---
+
+[← Previous: Day 4](./04-testing-levels.md) | [← Back to Home](../index.md) | [Next: Day 6 →](./06-test-analysis-rtm-test-data.md)

@@ -1,3 +1,7 @@
+[← Back to Home](../index.md)
+
+---
+
 # ☕Day 2 - The 7 Principles & The V-Model 
 
 ## 📚 Topics Covered
@@ -202,8 +206,10 @@ Together, they help create more effective testing strategies, detect defects ear
 
 ### Challenge Progress
 
-**Series:** Breaking Into QA ✨
-
 **Challenge:** 30-Day QA Learning Challenge
 
-**Day Completed:** Day 1 ✅
+**Day Completed:** Day 2 ✅
+
+---
+
+[← Previous: Day 1](./01-intro-to-qa.md) | [← Back to Home](../index.md) | [Next: Day 3 →](./03-stcl-manual-vs-automation-testing.md)

@@ -1,3 +1,7 @@
+[← Back to Home](../index.md)
+
+---
+
 # Day 1 - Software Testing Fundamentals 🧪
 
 ## Overview
@@ -207,8 +211,10 @@ This mindset shift from **building** to **validating quality** is one of the mos
 
 ### Challenge Progress
 
-**Series:** Breaking Into QA ✨
-
 **Challenge:** 30-Day QA Learning Challenge
 
 **Day Completed:** Day 1 ✅
+
+---
+
+[← Back to Home](../index.md) | [Next: Day 2 →](./02-testing-principles-v-model.md)

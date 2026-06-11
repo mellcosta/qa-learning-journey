@@ -1,3 +1,7 @@
+[← Back to Home](../index.md)
+
+---
+
 # Day 3 - STLC, RTM & Testing Execution 🚀
 
 ## Overview
@@ -272,8 +276,10 @@ This was the first day where I started seeing how all the pieces of the QA proce
 
 ## Challenge Progress
 
-**Series:** Breaking Into QA ✨
-
 **Challenge:** 30-Day QA Learning Challenge
 
-**Day Completed:** Day 3/30 ✅
+**Day Completed:** Day 3 ✅
+
+---
+
+[← Previous: Day 2](./02-testing-principles-v-model.md) | [← Back to Home](../index.md) | [Next: Day 4 →](./04-testing-levels.md)

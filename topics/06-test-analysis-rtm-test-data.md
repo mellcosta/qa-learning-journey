@@ -1,3 +1,7 @@
+[← Back to Home](../index.md)
+
+---
+
 # Day 6 - Test Analysis, RTM Deep Dive & Test Data Design 🚀
 
 ## Overview
@@ -149,10 +153,10 @@ Understanding RTM and test data design shows how QA ensures not only correctness
 
 ## Challenge Progress
 
-**Series:** Breaking Into QA ✨
-
 **Challenge:** 30-Day QA Learning Challenge
 
-**Day Completed:** Day 6/30 ✅
+**Day Completed:** Day 6 ✅
 
 ---
+
+[← Previous: Day 5](./05-test-documentation-regression.md) | [← Back to Home](../index.md) | [Next: Day 7 →](./07-black-box-testing-techniques.md)
